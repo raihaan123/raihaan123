@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I like reinforcement learning.**
 
+My last two weeks in code!
 <!--START_SECTION:waka-->
 ```text
 Python   52 mins         ████████████████████████▓   98.60 % 
