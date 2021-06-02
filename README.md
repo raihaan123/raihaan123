@@ -16,6 +16,9 @@
 - ⚡ Fun fact **I like reinforcement learning.**
 
 <!--START_SECTION:waka-->
+```text
+Python   52 mins         ████████████████████████▓   98.60 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
