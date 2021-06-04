@@ -20,7 +20,8 @@
 My last two weeks in code!
 <!--START_SECTION:waka-->
 ```text
-Python   52 mins         ████████████████████████▓   98.60 % 
+Python     1 hr 59 mins    ████████████████████████░   95.92 % 
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 <!--END_SECTION:waka-->
 
