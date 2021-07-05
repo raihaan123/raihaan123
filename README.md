@@ -17,7 +17,7 @@
 
 <br />
 
-My last two weeks in code!
+My last week in code!
 <!--START_SECTION:waka-->
 ```text
 Python             41 mins         ██████████████░░░░░░░░░░░   56.31 % 
