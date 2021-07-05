@@ -20,7 +20,11 @@
 My last two weeks in code!
 <!--START_SECTION:waka-->
 ```text
-Python   5 hrs 18 mins   █████████████████████████   99.86 % 
+Python             41 mins         ██████████████░░░░░░░░░░░   56.31 % 
+Docker             8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JavaScript         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+reStructuredText   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Text               3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 <!--END_SECTION:waka-->
 
