@@ -20,7 +20,11 @@
 My last week in code!
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     4 hrs 33 mins   ███████████████████▒░░░░░   77.08 % 
+YAML       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+C++        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Docker     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 <!--END_SECTION:waka-->
 
