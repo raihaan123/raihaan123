@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihaan123&label=Profile%20views&color=0e75b6&style=flat" alt="raihaan123" /> </p>
 
-- 🔭 I’m currently working on **Reinforcement Learning**
+- 🔭 I’m currently working on **Aircraft & Rocket Optimization**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **General Intelligence from RL**
 
-- 👯 I’m looking to collaborate on **Reinforcement Learning**
+- 👯 I’m looking to collaborate on **RocketPy**
 
-- 💬 Ask me about **Rockets, electronics and coding**
+- 💬 Ask me about **Rockets, Deep Learning and Electronics**
 
 - 📫 How to reach me **raihaan.usman@gmail.com**
 
