@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aircraft & Rocket Optimization**
 
-- 🌱 I’m currently learning **How to approach General Intelligence from RL**
+- 🌱 I’m currently learning **How to approach General Intelligence from the context of RL**
 
 - 👯 I’m looking to collaborate on **[RocketPy](https://github.com/icl-rocketry/RocketPy)**
 
