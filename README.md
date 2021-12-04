@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **How to approach General Intelligence from the context of RL**
 
-- 👯 I’m looking to collaborate on **[RocketPy](https://github.com/icl-rocketry/RocketPy)**
+- 👯 I’m looking to collaborate on **[RocketPy](https://github.com/icl-rocketry/RocketPy)** and **[PyAVD](https://github.com/AVD-2021/PyAVD)**
 
 - 💬 Ask me about **Rockets, Deep Learning and Electronics**
 
