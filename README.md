@@ -20,9 +20,7 @@
 My last week in code!
 <!--START_SECTION:waka-->
 ```text
-Python   25 hrs 40 mins  █████████████████████▓░░░   86.49 % 
-Other    3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Text     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
