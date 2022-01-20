@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihaan123&label=Profile%20views&color=0e75b6&style=flat" alt="raihaan123" /> </p>
 
-- 🔭 I’m currently working on **Aircraft & Rocket Optimization**
+- 🔭 I’m currently working on **Intelligent Aircraft & Rocket Design Optimization**
 
-- 🌱 I’m currently learning **How to approach General Intelligence from the context of RL**
+- 🌱 I’m currently learning **Self-Assembling neural networks and their potential in AGI research**
 
 - 👯 I’m looking to collaborate on **[RocketPy](https://github.com/icl-rocketry/RocketPy)** and **[PyAVD](https://github.com/AVD-2021/PyAVD)**
 
