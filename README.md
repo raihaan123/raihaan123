@@ -19,15 +19,12 @@
 
 My last week in code!
 <!--START_SECTION:waka-->
-```text
-Total: 22 hrs 33 mins
 
-Python       13 hrs 18 mins  ██████████████▓░░░░░░░░░░   58.92 % 
-C++          8 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.75 % 
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-C            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+```text
+Python     2 hrs 29 mins   █████████████████████████   99.70 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
