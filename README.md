@@ -21,7 +21,10 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++        48 mins         ████████████▒░░░░░░░░░░░░   49.34 %
+Makefile   37 mins         █████████▓░░░░░░░░░░░░░░░   38.57 %
+CMake      11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
