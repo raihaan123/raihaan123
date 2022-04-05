@@ -21,9 +21,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-MATLAB        5 hrs 17 mins   ████████████████████████▓   99.27 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+MATLAB        1 hr 24 mins    ████████████████████████▓   99.18 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
