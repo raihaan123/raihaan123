@@ -21,7 +21,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-MATLAB   30 mins         █████████████████████████   100.00 %
+MATLAB   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
