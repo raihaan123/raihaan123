@@ -21,7 +21,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C      8 mins          ██████████████████████▓░░   91.12 %
+JSON   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
 ```
 
 <!--END_SECTION:waka-->
