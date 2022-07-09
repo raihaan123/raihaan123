@@ -21,7 +21,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Other      37 mins         █████████████████░░░░░░░░   67.98 %
+Other      37 mins         ███████████▒░░░░░░░░░░░░░   45.59 %
 ```
 
 <!--END_SECTION:waka-->
