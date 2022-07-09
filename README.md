@@ -21,7 +21,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   4 mins          █████████████████████████   100.00 %
+Other      37 mins         █████████████████░░░░░░░░   67.98 %
 ```
 
 <!--END_SECTION:waka-->
