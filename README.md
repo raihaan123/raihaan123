@@ -21,7 +21,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-C   8 mins          █████████████████████████   100.00 %
+C   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
