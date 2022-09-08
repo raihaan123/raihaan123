@@ -21,7 +21,10 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     1 hr 18 mins    ████████████████████████▒   97.35 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
