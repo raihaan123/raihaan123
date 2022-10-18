@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihaan123&label=Profile%20views&color=0e75b6&style=flat" alt="raihaan123" /> </p>
 
-- 🔭 I’m currently working on **Intelligent Aircraft & Rocket Design Optimization**
+- 🔭 I’m currently working on **Reinforcement learning in GNC applications**
 
-- 🌱 I’m currently learning **Self-Assembling neural networks and their potential in AGI research**
+- 🌱 Master's Thesis - **Quantum Machine Learning for Turbulence Modelling**
 
-- 👯 I’m looking to collaborate on **[RocketPy](https://github.com/icl-rocketry/RocketPy)** and **[PyAVD](https://github.com/AVD-2021/PyAVD)**
-
-- 💬 Ask me about **Rockets, Deep Learning and Electronics**
+- 💬 Ask me about **Deep Learning, Deep Learning and Electronics**
 
 - 📫 How to reach me **raihaan.usman@gmail.com**
 
-- ⚡ Fun fact **I like reinforcement learning.**
+- ⚡ Fun fact **I'd quite like to do a PhD!**
 
 <br />
 
