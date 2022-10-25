@@ -19,12 +19,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 18 mins   ██████████████████░░░░░░░   72.35 %
-Markdown     51 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   48 mins         █████████████████▓░░░░░░░   71.31 %
+Python     19 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 %
 ```
 
 <!--END_SECTION:waka-->
