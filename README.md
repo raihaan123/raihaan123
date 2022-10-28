@@ -3,15 +3,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihaan123&label=Profile%20views&color=0e75b6&style=flat" alt="raihaan123" /> </p>
 
+```python
+class MachineTeacher():
+    
+  def __init__(self):
+    self.name = "Raihaan Usman";
+    self.username = "raihaan123";
+    self.location = "London, UK";
+    self.web = "raihaan.me";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = MachineTeacher()
+```
+
+
 - 🔭 I’m currently working on **Reinforcement learning in GNC applications**
 
-- 🌱 Master's Thesis - **Quantum Machine Learning for Turbulence Modelling**
+- 🌱 Master's Thesis - **Quantum Machine Learning for Turbulence Modelling in the NISQ era**
 
 - 💬 Ask me about **Deep Learning, Systems Engineering and Electronics**
 
-- 📫 How to reach me **raihaan.usman@gmail.com**
-
-- ⚡ Fun fact **I'd quite like to do a PhD!**
+- ⚡ Fun fact **I play a lot of chess!**
 
 <br />
 
