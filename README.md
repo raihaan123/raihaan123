@@ -22,6 +22,7 @@ if __name__ == '__main__':
     me = MachineTeacher()
 ```
 
+<br />
 
 - 🔭 I’m currently working on **Reinforcement learning in GNC applications**
 
