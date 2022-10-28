@@ -1,5 +1,8 @@
 <h1 align="center">I'm Raihaan.</h1>
-<h3 align="center">I like coding among other things.</h3>
+<!-- <h3 align="center">I like coding among other things.</h3> -->
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aerospace+Engineering+Undergrad;Deep+Learning+Enjoyer;Maker+of+Rockets;Always%20learning%20cool%20stuff&center=true&width=500&height=50"></a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihaan123&label=Profile%20views&color=0e75b6&style=flat" alt="raihaan123" /> </p>
 
