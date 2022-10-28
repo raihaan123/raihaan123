@@ -7,7 +7,7 @@
 
 - 🌱 Master's Thesis - **Quantum Machine Learning for Turbulence Modelling**
 
-- 💬 Ask me about **Deep Learning, Deep Learning and Electronics**
+- 💬 Ask me about **Deep Learning, Systems Engineering and Electronics**
 
 - 📫 How to reach me **raihaan.usman@gmail.com**
 
