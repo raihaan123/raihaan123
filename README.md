@@ -24,13 +24,13 @@ if __name__ == '__main__':
 
 <br />
 
-- 🔭 I’m currently working on **Reinforcement learning in GNC applications**
+- 🔭 I’m currently interested in **Neurocognitive Computing and Artificial General Intelligence**
 
 - 🌱 Master's Thesis - **Quantum Machine Learning for Turbulence Modelling in the NISQ era**
 
-- 💬 Ask me about **Deep Learning, Systems Engineering and Electronics**
+- 💬 Ask me about **Reinforcement Learning, Software and Electronics**
 
-- ⚡ Fun fact **I play a lot of chess!**
+- ⚡ Fun fact **I build rockets at the Karman Space Programme!**
 
 <br />
 
