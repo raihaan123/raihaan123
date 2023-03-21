@@ -38,7 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Python   28 hrs 25 mins  █████████████████████████   99.84 %
+Python   28 hrs 5 mins   █████████████████████████   99.84 %
 Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
