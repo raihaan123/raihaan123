@@ -38,8 +38,9 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 20 mins   ████████████████████░░░░░   79.50 %
-Markdown   36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Python     8 hrs 37 mins   ███████████████████████▒░   93.30 %
+Markdown   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
