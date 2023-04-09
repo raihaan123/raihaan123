@@ -38,7 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   10 hrs 19 mins  █████████████████████████   100.00 %
+Markdown   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
