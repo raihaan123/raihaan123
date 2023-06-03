@@ -37,9 +37,9 @@ if __name__ == '__main__':
 My last week in code!
 <!--START_SECTION:waka-->
 
-```text
-Python   38 mins         ███████████████████████░░   92.24 %
-Other    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+```txt
+Python   1 hr 20 mins    ████████████████████████░   96.16 %
+Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
