@@ -38,11 +38,11 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 hrs 35 mins   ███████████████████████▒░   92.71 %
-GDScript           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-HTML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-reStructuredText   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Bash               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python             11 hrs 52 mins  ███████████████████████▒░   93.14 %
+GDScript           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+XML                10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+HTML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+reStructuredText   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
