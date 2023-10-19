@@ -38,8 +38,10 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 mins          ████████████████████████▓   99.14 %
-Ezhil    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+GDScript   8 mins          ██████████░░░░░░░░░░░░░░░   40.14 %
+Bash       6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+Python     6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+Ezhil      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
