@@ -38,9 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   8 mins          █████████████░░░░░░░░░░░░   51.71 %
-Bash       6 mins          ██████████░░░░░░░░░░░░░░░   39.79 %
-Python     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
