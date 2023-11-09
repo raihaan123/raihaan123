@@ -38,10 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-XML      13 mins         █████████████▒░░░░░░░░░░░   52.84 %
-JSON     7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Python   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
