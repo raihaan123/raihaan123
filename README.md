@@ -38,9 +38,9 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   36 mins         █████████████████▒░░░░░░░   68.72 %
-Docker   16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.87 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python   36 mins         ████████████████████████▓   98.66 %
+Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
