@@ -38,9 +38,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 hrs 30 mins   ██████████████████████▓░░   90.46 %
-JSON     31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python   2 hrs 26 mins   ████████████████████████▒   97.92 %
+Text     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
