@@ -38,11 +38,11 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-TypeScript   3 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Python       3 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Docker       2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Bash         1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Rust         4 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
+Docker       2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+TypeScript   1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Bash         1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+TOML         1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 ```
 
 <!--END_SECTION:waka-->
