@@ -38,11 +38,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 31 mins   ██████████████████▓░░░░░░   74.33 %
-TOML         48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Rust   1 hr 33 mins    ████████████████████████▒   97.60 %
+TOML   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
