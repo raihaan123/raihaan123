@@ -38,8 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   1 hr 33 mins    ████████████████████████▒   97.60 %
-TOML   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
