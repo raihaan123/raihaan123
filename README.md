@@ -38,7 +38,9 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker   5 mins          ██████████████████▓░░░░░░   74.07 %
+Python   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
