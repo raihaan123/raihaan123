@@ -38,7 +38,11 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   5 mins          █████████████████████████   100.00 %
+TypeScript    41 mins         ███████████▓░░░░░░░░░░░░░   46.00 %
+JSON          14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+JavaScript    12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+CSS           10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Markdown      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
