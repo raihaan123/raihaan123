@@ -38,11 +38,11 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    22 hrs 35 mins  █████████████████████████   99.85 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript    22 hrs 29 mins  ████████████████████████▓   99.30 %
+Image (svg)   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
