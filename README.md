@@ -38,9 +38,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 31 mins  ████████████████████████▒   97.85 %
-CSS          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   6 hrs 49 mins   ████████████████████████░   96.25 %
+CSS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
