@@ -38,8 +38,10 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 47 mins    ████████████████████▓░░░░   82.13 %
-TypeScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+TypeScript   1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.74 %
+Rust         51 mins         ███████████░░░░░░░░░░░░░░   43.88 %
+SQL          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
