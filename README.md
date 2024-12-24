@@ -38,11 +38,11 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 26 hrs 28 mins  ███████████████████▒░░░░░   76.76 %
-Rust                       4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-C++                        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-SQL                        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Nginx configuration file   38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TypeScript                 21 hrs 8 mins   ███████████████████▒░░░░░   77.55 %
+Rust                       2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+C++                        1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Nginx configuration file   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+SQL                        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
