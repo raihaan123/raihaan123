@@ -38,11 +38,10 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 2 hrs 41 mins   ████████████████░░░░░░░░░   63.38 %
-Nginx configuration file   38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Rust                       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-SQL                        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Docker                     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+TypeScript   1 hr 17 mins    ███████████████████▒░░░░░   77.60 %
+SQL          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Rust         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
