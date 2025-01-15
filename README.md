@@ -38,8 +38,9 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   17 mins         █████████████████████▓░░░   87.21 %
-SQL           2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Image (svg)   17 mins         █████████████████████▓░░░   86.54 %
+SQL           2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+TypeScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
