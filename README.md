@@ -38,10 +38,7 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 50 mins   ████████████████████████░   96.04 %
-Python       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   6 hrs 43 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
