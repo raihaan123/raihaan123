@@ -38,8 +38,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 33 mins   ██████████████████████▒░░   88.84 %
-JSON         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+TypeScript   39 mins         ██████████████▓░░░░░░░░░░   59.33 %
+JSON         26 mins         ██████████▒░░░░░░░░░░░░░░   40.67 %
 ```
 
 <!--END_SECTION:waka-->
