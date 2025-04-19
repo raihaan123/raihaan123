@@ -38,7 +38,8 @@ My last week in code!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         10 mins         ████████████▓░░░░░░░░░░░░   50.15 %
+TypeScript   10 mins         ████████████▒░░░░░░░░░░░░   49.85 %
 ```
 
 <!--END_SECTION:waka-->
